@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1728660389278" clover="3.2.0">
-  <project timestamp="1728660389278" name="All files">
-    <metrics statements="66" coveredstatements="66" conditionals="19" coveredconditionals="19" methods="10" coveredmethods="10" elements="95" coveredelements="95" complexity="0" loc="66" ncloc="66" packages="3" files="9" classes="9"/>
+<coverage generated="1728660766874" clover="3.2.0">
+  <project timestamp="1728660766874" name="All files">
+    <metrics statements="81" coveredstatements="81" conditionals="19" coveredconditionals="19" methods="12" coveredmethods="12" elements="112" coveredelements="112" complexity="0" loc="81" ncloc="81" packages="4" files="11" classes="11"/>
     <package name="HW">
       <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="askUser.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW\askUser.js">
@@ -102,6 +102,30 @@
         <line num="6" count="51" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="HW4">
+      <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="userJohn.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW4\userJohn.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="userJohnAdmin.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW4\userJohnAdmin.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
       </file>
     </package>
   </project>
