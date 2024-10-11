@@ -45,4 +45,3 @@ export function month(numberMonth) {
   console.log(result);
   return result;
 }
-month(3);
