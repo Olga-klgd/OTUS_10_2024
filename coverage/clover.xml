@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1728896971109" clover="3.2.0">
-  <project timestamp="1728896971109" name="All files">
-    <metrics statements="176" coveredstatements="161" conditionals="26" coveredconditionals="22" methods="30" coveredmethods="24" elements="232" coveredelements="207" complexity="0" loc="176" ncloc="176" packages="10" files="21" classes="21"/>
+<coverage generated="1728897899842" clover="3.2.0">
+  <project timestamp="1728897899842" name="All files">
+    <metrics statements="247" coveredstatements="229" conditionals="32" coveredconditionals="28" methods="39" coveredmethods="30" elements="318" coveredelements="287" complexity="0" loc="247" ncloc="247" packages="13" files="27" classes="27"/>
     <package name="HW">
       <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="askUser.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW\askUser.js">
@@ -209,9 +209,9 @@
         <line num="2" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
       </file>
       <file name="dayOfWeekUI.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW8\dayOfWeek1\src\dayOfWeekUI.js">
         <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
@@ -269,6 +269,104 @@
         <line num="25" count="2" type="stmt"/>
         <line num="27" count="2" type="stmt"/>
         <line num="28" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="HW9.circleRadius.src">
+      <metrics statements="16" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="circleRadiusFind.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW9\circleRadius\src\circleRadiusFind.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+      <file name="circleRadiusUI.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW9\circleRadius\src\circleRadiusUI.js">
+        <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="HW9.quadraticEquation.src">
+      <metrics statements="31" coveredstatements="30" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="2"/>
+      <file name="quadraticEquationFind.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW9\quadraticEquation\src\quadraticEquationFind.js">
+        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+      <file name="quadraticEquationUI.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW9\quadraticEquation\src\quadraticEquationUI.js">
+        <metrics statements="20" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="HW9.rightTriangle.src">
+      <metrics statements="24" coveredstatements="23" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="2"/>
+      <file name="rightTriangleFind.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW9\rightTriangle\src\rightTriangleFind.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="3" type="stmt"/>
+      </file>
+      <file name="rightTriangleUI.js" path="C:\Users\Матюшина\OTUS_10_2024\src\HW9\rightTriangle\src\rightTriangleUI.js">
+        <metrics statements="20" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
       </file>
     </package>
   </project>
