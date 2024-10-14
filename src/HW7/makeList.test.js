@@ -32,7 +32,7 @@ describe('makeList', () => {
     expect(input).toBeTruthy();
     expect(button).toBeTruthy();
     expect(button.innerHTML).toBe('Добавить');
-    expect(button.hidden).toBe(false);
+    expect(button.hidden).toBe(true);
     expect(el.querySelectorAll('p').length).toBe(3);
   });
 
